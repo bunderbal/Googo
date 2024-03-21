@@ -1,7 +1,7 @@
 {
   "name": "Fairy Tale Web App",
   "short_name": "FairyTale",
-  "start_url": "/",
+  "start_url": "/bunderbal.github.io",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
